@@ -1,0 +1,15 @@
+C:\Users\Particular\estudos-csharp\01-PrimeiroPrograma\bin\Debug\net10.0\01-PrimeiroPrograma.exe
+C:\Users\Particular\estudos-csharp\01-PrimeiroPrograma\bin\Debug\net10.0\01-PrimeiroPrograma.deps.json
+C:\Users\Particular\estudos-csharp\01-PrimeiroPrograma\bin\Debug\net10.0\01-PrimeiroPrograma.runtimeconfig.json
+C:\Users\Particular\estudos-csharp\01-PrimeiroPrograma\bin\Debug\net10.0\01-PrimeiroPrograma.dll
+C:\Users\Particular\estudos-csharp\01-PrimeiroPrograma\bin\Debug\net10.0\01-PrimeiroPrograma.pdb
+C:\Users\Particular\estudos-csharp\01-PrimeiroPrograma\obj\Debug\net10.0\01-PrimeiroPrograma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Particular\estudos-csharp\01-PrimeiroPrograma\obj\Debug\net10.0\01-PrimeiroPrograma.AssemblyInfoInputs.cache
+C:\Users\Particular\estudos-csharp\01-PrimeiroPrograma\obj\Debug\net10.0\01-PrimeiroPrograma.AssemblyInfo.cs
+C:\Users\Particular\estudos-csharp\01-PrimeiroPrograma\obj\Debug\net10.0\01-PrimeiroPrograma.csproj.CoreCompileInputs.cache
+C:\Users\Particular\estudos-csharp\01-PrimeiroPrograma\obj\Debug\net10.0\01-PrimeiroPrograma.sourcelink.json
+C:\Users\Particular\estudos-csharp\01-PrimeiroPrograma\obj\Debug\net10.0\01-PrimeiroPrograma.dll
+C:\Users\Particular\estudos-csharp\01-PrimeiroPrograma\obj\Debug\net10.0\refint\01-PrimeiroPrograma.dll
+C:\Users\Particular\estudos-csharp\01-PrimeiroPrograma\obj\Debug\net10.0\01-PrimeiroPrograma.pdb
+C:\Users\Particular\estudos-csharp\01-PrimeiroPrograma\obj\Debug\net10.0\01-PrimeiroPrograma.genruntimeconfig.cache
+C:\Users\Particular\estudos-csharp\01-PrimeiroPrograma\obj\Debug\net10.0\ref\01-PrimeiroPrograma.dll
